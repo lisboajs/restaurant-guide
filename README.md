@@ -56,7 +56,15 @@ This is a community-curated guide to restaurants in Lisbon, created for our spea
 - **Wi-Fi**: Unknown
 - **Notes**: Long-standing restaurant that pays homage to the cod in a variety of traditional Portuguese dishes. Many people swear Laurentina has the best bacalhau à bras in Lisboa.
 
-## Intendente
+## Intendente/Arroios
+
+#### Mezze
+
+- **Cuisine**: Lebanese, Syrian
+- **Price**: €€
+- **Address**: R. Ângela Pinto 40D 22/23
+- **Wi-Fi**: Unknown
+- **Notes**: Levantine restaurant in a modern and cozy atmosphere. Expect to find great Lebanese food with an extra kick of spices, and friendly service. Good for small to medium-sized (8 people) groups.
 
 #### Cervejaria Ramiro
 - **Cuisine**: Portuguese Traditional. Seafood
